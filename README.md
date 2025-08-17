@@ -27,7 +27,7 @@ Tools: Maven, Git, Swagger, Postman
 
 Clone the repository
 
-git clone https://github.com/your-username/Job-Portal.git
+git clone https://github.com/shanthavardhan597/Job-Portal-main.git
 
 
 Backend (Spring Boot)
@@ -44,7 +44,7 @@ Navigate to frontend folder
 
 Run → npm install then npm start (React) or ng serve (Angular)
 
-Open → http://localhost:3000 (React) or http://localhost:4200 (Angular)
+Open → http://localhost:3000 (React) 
 
 📌 Future Enhancements
 
@@ -54,4 +54,4 @@ Open → http://localhost:3000 (React) or http://localhost:4200 (Angular)
 
 📱 Mobile-friendly UI
 
-☁️ Cloud deployment (AWS/Azure/Heroku)
+☁️ Cloud deployment (AWS)
