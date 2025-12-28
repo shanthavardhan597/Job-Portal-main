@@ -1,6 +1,6 @@
 💼 Job Portal System
 
-A Java Full Stack Project built using Spring Boot, Hibernate, MySQL, and React/Angular.
+A Java Full Stack Project built using Spring Boot, Hibernate, MySQL, and Html,Css,JavaScript.
 This project provides a platform for employers to post jobs and for candidates to apply, making recruitment faster and more efficient.
 
 🚀 Features
@@ -20,8 +20,8 @@ This project provides a platform for employers to post jobs and for candidates t
 🛠 Tech Stack
 
 Backend: Java, Spring Boot, Hibernate, JPA, MySQL
-Frontend: React (or Angular), Bootstrap/Tailwind CSS
-Tools: Maven, Git, Swagger, Postman
+Frontend: Html,CSS,JavaScript
+Tools: Maven,Postman
 
 ⚙️ Setup Instructions
 
@@ -38,13 +38,7 @@ Run mvn spring-boot:run
 
 API available at http://localhost:8080/api
 
-Frontend (React/Angular)
-
-Navigate to frontend folder
-
-Run → npm install then npm start (React) or ng serve (Angular)
-
-Open → http://localhost:3000 (React) 
+Frontend (Html,Css,JavaScript)
 
 📌 Future Enhancements
 
@@ -52,6 +46,3 @@ Open → http://localhost:3000 (React)
 
 🔎 Advanced job filtering (skills, location, salary)
 
-📱 Mobile-friendly UI
-
-☁️ Cloud deployment (AWS)
